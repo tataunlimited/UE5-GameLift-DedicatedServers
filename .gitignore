@@ -1,0 +1,20 @@
+# Unreal build products
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.opendb
+
+# OS
+.DS_Store
+Thumbs.db
